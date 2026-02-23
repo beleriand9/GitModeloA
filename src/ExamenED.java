@@ -8,6 +8,8 @@ public class ExamenED {
 		System.out.println("Hola a tod@s");
 	
 		System.out.println("Cambio Rama1");
+
+		System.out.println("Cambio en repo remoto");
 	}
 
 }
