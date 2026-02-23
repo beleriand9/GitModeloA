@@ -10,6 +10,9 @@ public class ExamenED {
 		System.out.println("Cambio Rama1");
 
 		System.out.println("Cambio en repo remoto");
+		
+		System.out.println("Último cambio en repo local");
 	}
+	
 
 }
